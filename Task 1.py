@@ -77,30 +77,3 @@ while True:
                     print(list[9]) #Людмила
                 else:
                     print(list[13]) #Галина
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        
